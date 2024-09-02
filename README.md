@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Karam Al Nashi</h1>
 <h3 align="center">A passionate Software Developer from Syria/Germany</h3>
 
-- 🔭 I’m currently working on [Humerusabdution on Robot Pepper](https://github.com/karamalnashi/Humerusabduktion)
+- 🔭 I’m currently working in [Qbus Agentur](https://github.com/qbus-agentur)
 
-- 🌱 I’m currently learning **Microsoft Azure , Django**
+- 🌱 I’m currently learning **Microsoft Azure , React.js**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
