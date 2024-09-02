@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karam Al Nashi</h1>
-<h3 align="center">A passionate Software Developer from Syria/Germany</h3>
+<h3 align="center">A passionate Wordpress Developer from Syria/Germany</h3>
 
 - 🔭 I’m currently working in [Qbus Agentur](https://github.com/qbus-agentur)
 
